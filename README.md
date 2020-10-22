@@ -32,5 +32,5 @@ A modo de ejemplo, exponemos información acerca del CTO de Mikroways en la
 misma carpeta del curso donde los aspirantes deberán subir su información.
 
 Para poder contribuir, entonces deberán crear un fork en un repositorio que
-pertenezca a su usuario. Luego, trabajar en una nueva rama para agergar sus
+pertenezca a su usuario. Luego, trabajar en una nueva rama para agregar sus
 datos, y finalmente relizar un pull request.
