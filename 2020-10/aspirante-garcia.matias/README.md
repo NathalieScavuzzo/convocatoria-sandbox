@@ -5,6 +5,7 @@
 Estudiante de Licenciatura en Sistemas de la UNLP. Amante del Software libre y de GNU/Linux.
 
 **TODO:** Agregar imagen
+![tux](./tux.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tempor at elit ut tempus. Quisque id tellus ultricies, luctus leo nec, mollis elit. Proin sollicitudin, nisi at sollicitudin feugiat, odio augue ornare lacus, porttitor tempus turpis ex sed tellus. Praesent ut quam non eros dictum luctus vel in magna. Aliquam ut ultrices enim. Maecenas nec tempor quam, ut sodales nulla. Donec vel massa massa. Maecenas vehicula felis vitae diam feugiat varius.
 
