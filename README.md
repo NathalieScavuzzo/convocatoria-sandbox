@@ -10,7 +10,7 @@ contribuir.
 El repositorio tendrá la lista de aspirantes con datos de cada uno de ustedes.
 Pueden ser datos reales o datos ficticios. Lo importante es que entre todos
 podamos editar este mismo repositorio. Entonces, el siguiente enlace nos lleva
-a la convocatoria realizada durante [Octubre del 2020](2020-10/). En la carpeta,
+a la convocatoria realizada durante [Marzo del 2021](2021-03/). En la carpeta,
 cada aspirante deberá crear un archivo respetando la siguiente convención para
 el nombre de archivo:
 
@@ -25,7 +25,7 @@ ficticio. Considere que el repositorio será público por lo que sus datos
 quedarán expuestos.
 Puede además subir imágenes, documentos o lo que desee.
 
-Además, no olvide agregar una entrada en el [README.md](2020-10/) con el nombre
+Además, no olvide agregar una entrada en el [README.md](2021-03/) con el nombre
 enlazando a la nueva carpeta.
 
 A modo de ejemplo, exponemos información acerca del CTO de Mikroways en la
