@@ -6,3 +6,4 @@ El siguiente listado corresponde a los aspirantes:
 * [Manuel Chichi](aspirante-chichi.manuel/)
 * [Matias Silva](aspirante-silva.matias/)
 * [Federico Gasquez](aspirante-gasquez.federico/)
+* [Garcia Gudin Matias](aspirante-garcia.matias/)
