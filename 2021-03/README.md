@@ -6,3 +6,4 @@ El siguiente listado corresponde a los aspirantes:
 * [Giuliano De Pian](aspirante-giuliano.depian)
 * [Martin Coria](aspirante-coria.martin/)
 * [Agustin Diaz](aspirante-agustin.diaz)
+* [Matias Garcia](aspirante-garcia.matias/)
