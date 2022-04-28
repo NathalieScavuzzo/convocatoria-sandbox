@@ -7,3 +7,4 @@ El siguiente listado corresponde a los aspirantes:
 * [Martin Coria](aspirante-coria.martin/)
 * [Agustin Diaz](aspirante-agustin.diaz)
 * [Matias Garcia](aspirante-garcia.matias/)
+* [Scavuzzo Nathalie Pabla](aspirante-scavuzzo.nathalie)
